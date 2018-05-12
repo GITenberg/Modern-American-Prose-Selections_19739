@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '1443'
     url: http://www.gutenberg.org/2009/agents/1443
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19739#Modern-American-Prose-Selections
 gutenberg_issued: '2006-11-08'
 gutenberg_type: Text
 identifiers:
